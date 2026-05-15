@@ -1,4 +1,4 @@
-# Makrov_Lyrics_generator
+# Markov_Lyrics_generator
 Python NLP mini-projects including sentiment analysis, Markov text generation.
 
 Recently completed an NLP/AI learning project where I built:
