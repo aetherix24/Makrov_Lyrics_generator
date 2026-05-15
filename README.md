@@ -9,4 +9,4 @@ cosine similarity using word embeddings
 
 I also experimented by training the model on different song lyrics/text datasets to generate new text patterns.
 
-Really enjoyed learning about tokenization, embeddings, vector similarity, and NLP fundamenta
+Really enjoyed learning about tokenization, embeddings, vector similarity, and NLP fundamentals.
